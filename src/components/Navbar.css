@@ -1,0 +1,68 @@
+.navbarContainer{
+    height: 55px;
+    width: 100%;
+    display: flex;
+    border-bottom: 2px solid white;
+    background-color: #020af2;
+}
+
+.navbarLeft{
+    display: grid;
+    align-items: center;
+    flex: 3;   
+}
+
+.logo{
+    font-size: 27px;
+    color: white;
+}
+
+.navbarCenter1{
+    flex: 1.5;
+    display: flex;
+}
+
+.navbarCenter2{
+    flex: 1.5;
+    display: flex;
+}
+
+.navLink{
+    display: grid;
+    align-items: center;
+    flex: 1;
+}
+
+.raise{
+    font-size: 18px;
+    color: white;
+    margin-left: 60px;
+}
+
+.view{
+    font-size: 18px;
+    color: white;
+    margin-right: 150px;
+}
+
+.navbarRight{
+    flex:5;
+}
+
+.inputBox{
+    height: 27px;
+    width: 300px;
+    border-radius: 7px;
+    border-color: white;
+    margin-right: 260px;
+    margin-top: 10px;
+}
+
+input::placeholder{
+    padding-left: 20px;
+    font-size: 13px;
+}
+
+input:focus{
+    outline: none;
+}

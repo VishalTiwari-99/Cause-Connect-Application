@@ -1,0 +1,157 @@
+.fundWrapper{
+    height: 90vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+
+.topWrapper{
+    flex: 1;
+    display: flex;
+    margin-top: 5px;
+}
+
+.topLeft{
+    flex: 1;
+}
+
+.topLeft img{
+    margin-left: 5px;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    max-width: 350px;
+}
+
+.topRight{
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+}
+
+.trTop{
+    flex: 1;
+    display: flex;
+}
+
+.raised{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.needed{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.amountDetails{
+    flex:1;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+.amountNum{
+    flex: 2;
+    font-size: 40px;
+    font-weight: bolder;
+    display: grid;
+    align-items: center;
+}
+
+.raised .amountNum{
+    color: rgba(8, 0, 249, 0.637);
+}
+
+.needed .amountNum{
+    color: rgb(255, 0, 0);
+}
+
+.trBottom{
+    flex: 1;
+    display: flex;
+}
+
+.inputAmt{
+    flex: 1;
+    display: grid;
+    align-items: center;
+}
+
+.inputAmt input{
+    margin-right: 0;
+    margin-left: auto;
+    border-color: white;
+    border-radius: 7px;
+    height: 50px;
+    width: 50%;
+    font-size: 18px;
+    padding-left: 30px;
+}
+
+.inputAmt input::placeholder{
+    font-size: 18px;
+}
+
+.trBottom .btn{
+    flex: 1;
+    display: grid;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.btn button{
+    margin-left: 0;
+    margin-right: auto;
+    background-color: rgb(21, 181, 21);
+    color: white;
+    border-color: rgb(21, 181, 21);
+    border-radius: 8px;
+    height: 50px;
+    width: 100px;
+}
+
+.bottomWrapper{
+    flex: 2;
+}
+
+.bottomWrapper .title{
+    margin-top: 2em;
+    padding-left: 2%;
+    font-weight: 650;
+    font-size: 24px;
+}
+
+.bottomWrapper table{
+    width: 30%;
+}
+
+td .left{
+    text-align: left;
+}
+
+.bottomDetails .left{
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.bottomDetails .desc{
+    display: table;
+    text-align: left;
+    padding-left: 9%;
+}
+
+.bottomWrapper .editButton{
+    margin-top: 20px;
+    text-align: left;
+    padding-left: 16%;
+}
+
+.bottomWrapper .editButton button{
+    background-color: red;
+    border-color: red;
+    color: white;
+    height: 40px;
+    width: 150px;
+}

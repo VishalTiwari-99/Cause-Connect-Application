@@ -1,0 +1,67 @@
+.formHeader{
+    padding-top: 1em;
+    text-align: left;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 10%;
+}
+
+.formBody{
+    margin-left: 20%;
+}
+
+table{
+    border-spacing: 0 0.5em;
+}
+
+.left{
+    text-align: right;
+}
+
+.right{
+    text-align: left;
+    padding-left: 10px;
+}
+
+.input1{
+    height: 22px;
+    width: 350px;
+}
+
+.input2{
+    height: 22px;
+    width: 150px;
+}
+
+.radioOption{
+    font-size: 13px;
+}
+
+.img{
+    margin-left: 60px;
+}
+
+.input1, .input2, textarea{
+    border: 1px solid white;
+}
+
+.formButtons{
+    display: flex;
+    padding-top: 0%;
+    padding-left: 30%;
+}
+
+
+.formButtons button{
+    margin-top: 0%;
+    width: 80px;
+    height: 40px;
+    background-color: #020af2;
+    border: none;
+    font-size: 15px;
+    color: white;
+}
+
+.formButtons .cancelbtn{
+    margin-left: 20px;
+}

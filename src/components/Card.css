@@ -1,0 +1,52 @@
+.wrapperCard{
+    background-color: rgb(167, 83, 245);
+    height: 95%;
+    width: 170px;
+    margin-right: 2%;
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+}
+
+.CardImgContainer{
+    flex: 1;
+}
+
+.CardImgContainer img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.CardInfoContainer{
+    flex: 1;
+    position: relative;
+}
+
+.CardInfoTitle{
+    padding-bottom: 1em;
+    padding-top: 1em;
+}
+
+.CardInfoTitle span{
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+}
+
+
+.CardInfoText span{
+    position: relative;
+    bottom: 5px;
+    font-size: 11px;
+    color: white;
+}
+
+.CardInfoBtn{
+    position: relative;
+    color: white;
+    font-size: 12px;
+    border-radius: 2px;
+    background-color: rgb(75, 74, 74);
+}

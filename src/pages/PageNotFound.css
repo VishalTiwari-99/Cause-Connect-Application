@@ -1,0 +1,25 @@
+.PNFWrapper{
+    height: 100vh;
+    width: 100vw;
+    background-color: #cec3fa;
+}
+
+.error{
+    font-weight: 900;
+    color: white;
+    font-size: 200px;
+    text-shadow: -1px 1px 0 #000,
+                1px 1px 0 #000,
+                1px -1px 0 #000,
+                -1px -1px 0 #000;
+}
+
+.errText{
+    font-weight: 500;
+    color: white;
+    font-size: 30px;
+    text-shadow: -1px 1px 0 #000,
+                1px 1px 0 #000,
+                1px -1px 0 #000,
+                -1px -1px 0 #000;
+}

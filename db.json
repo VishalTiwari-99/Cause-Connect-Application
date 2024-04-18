@@ -1,0 +1,136 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "beneficiary": "Alice",
+      "gender": "Female",
+      "email": "alice@example.com",
+      "accountnumber": "9876543210",
+      "amount": "5000",
+      "description": "Funds needed for Alice's medical treatment. Alice is suffering from a life-threatening disease, lets raise funds so that we can help Alice.",
+      "Img": "assets/images/images1.jpg",
+      "donation": 23
+    },
+    {
+      "id": 2,
+      "beneficiary": "Bob",
+      "gender": "Male",
+      "email": "bob@example.com",
+      "accountnumber": "1234567890",
+      "amount": "8000",
+      "description": "Support Bob's educational expenses for his higher studies in Medical Science.",
+      "Img": "assets/images/images4.jpg",
+      "donation": "0"
+    },
+    {
+      "id": 3,
+      "beneficiary": "Catherine",
+      "gender": "Female",
+      "email": "catherine@example.com",
+      "accountnumber": "2468135790",
+      "amount": "2000",
+      "description": "Help Catherine renovate her home for a safe living environment.",
+      "Img": "assets/images/images2.jpg",
+      "donation": 4
+    },
+    {
+      "id": 4,
+      "beneficiary": "David",
+      "gender": "Male",
+      "email": "david@example.com",
+      "accountnumber": "1357924680",
+      "amount": "8000",
+      "description": "Support David's community project to build a local playground.",
+      "Img": "assets/images/images6.jpg",
+      "donation": 10
+    },
+    {
+      "id": 5,
+      "beneficiary": "Emily",
+      "gender": "Female",
+      "email": "emily@example.com",
+      "accountnumber": "3698521470",
+      "amount": "3000",
+      "description": "Help Emily rescue and rehabilitate abandoned animals.",
+      "Img": "assets/images/images3.jpg",
+      "donation": 5
+    },
+    {
+      "id": 6,
+      "beneficiary": "Frank",
+      "gender": "Male",
+      "email": "frank@example.com",
+      "accountnumber": "7654321098",
+      "amount": "6000",
+      "description": "Support Frank's initiative to provide clean drinking water in remote villages.",
+      "Img": "assets/images/images5.jpg",
+      "donation": "0"
+    },
+    {
+      "id": 7,
+      "beneficiary": "Grace",
+      "gender": "Female",
+      "email": "grace@example.com",
+      "accountnumber": "1029384756",
+      "amount": "4000",
+      "description": "Help Grace establish a community garden to promote sustainable living.",
+      "Img": "assets/images/images.jpg",
+      "donation": 19
+    },
+    {
+      "id": 9,
+      "beneficiary": "Isabella",
+      "gender": "Female",
+      "email": "isabella@example.com",
+      "accountnumber": "1230987654",
+      "amount": "3000",
+      "description": "Help Isabella pursue her dream of becoming an artist by funding art scholarships.",
+      "Img": "assets/images/images4.jpg",
+      "donation": 14
+    },
+    {
+      "id": 10,
+      "beneficiary": "Jacob",
+      "gender": "Male",
+      "email": "jacob@example.com",
+      "accountnumber": "9876543210",
+      "amount": "2500",
+      "description": "Support Jacob's initiative to provide free meals to underprivileged children.",
+      "Img": "assets/images/images6.jpg",
+      "donation": 2
+    },
+    {
+      "beneficiary": "Joe Biden",
+      "gender": "Male",
+      "email": "joebiden@usa.com",
+      "accountnumber": "9492839",
+      "amount": "5000",
+      "description": "Planting more trees and reducing fossil fuels.",
+      "Img": "assets/images/images1.jpg",
+      "donation": 15,
+      "id": 11
+    },
+    {
+      "beneficiary": "Spider Man",
+      "gender": "Male",
+      "email": "spiderman@gmail.com",
+      "accountnumber": "10430843903",
+      "amount": "15000",
+      "description": "To build school for poor children of West Africa.",
+      "Img": "assets/images/images6.jpg",
+      "donation": 5,
+      "id": 12
+    },
+    {
+      "beneficiary": "Suresh",
+      "gender": "Male",
+      "email": "sadka@aj.com",
+      "accountnumber": "87749430489",
+      "amount": "2000",
+      "description": "Hello world",
+      "Img": "assets/images/images6.jpg",
+      "donation": 10,
+      "id": 13
+    }
+  ]
+}
